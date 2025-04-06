@@ -1,6 +1,6 @@
 # Contract Management System (CMS) - Backend (Express)
 
-This repository contains the frontend implementation of the **Contract Management System (CMS)** built with ReactJS. The application provides a user-friendly interface for managing accounts, customers, projects, and contracts, with features like authentication, status tracking, and resource assignment.
+This repository contains the backend
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
