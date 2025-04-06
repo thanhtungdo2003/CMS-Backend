@@ -8,8 +8,7 @@ This repository contains the backend
 3. [Technologies Used](#technologies-used)
 4. [Setup Instructions](#setup-instructions)
 5. [Project Structure](#project-structure)
-6. [Usage](#usage)
-7. [Contributing](#contributing)
+6. [Contributing](#contributing)
 
 ---
 
