@@ -61,7 +61,7 @@ Follow these steps to set up and run the project locally.
 ---
 
 ## Project Structure
-Below is the directory structure of the `contract-management-system` project:
+Below is the directory structure of the `contractManagementSystemAPI` project:
 
 ```
 
